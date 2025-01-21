@@ -12,7 +12,7 @@ To install the extension you need to install [`Spicetify`](https://spicetify.app
 
 
 ## Manual installation
-1. Download the [`smooth-scroll.js`](https://github.com/iHelops/smooth-scroll/blob/main/dist/smooth-scroll.js) file from this repository and place it in the following directory
+1. Download the [`smooth-scroll.js`](https://github.com/iHelops/smooth-scrolling/blob/main/dist/smooth-scrolling.js) file from this repository and place it in the following directory
 
 | Platform      | Path                             |
 | ------------- |:--------------------------------:|
