@@ -1,0 +1,13 @@
+[
+	{
+	  "name": "Smooth Scrolling",
+	  "description": "Improves scrolling performance in Spotify",
+	  "preview": "./images/icon.png", 
+	  "main": "./dist/smooth-scrolling.js",
+	  "readme": "README.md",
+	  "authors": [
+		  { "name": "Aziz", "url": "https://blog.aziz.tn/" },
+          { "name": "helops", "url": "https://github.com/iHelops" }
+	  ]
+	}
+]
