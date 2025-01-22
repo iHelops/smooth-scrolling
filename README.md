@@ -1,6 +1,9 @@
 <p align="center">
  <img src="./images/icon.png" height="128" alt="Logo">
- <h1 align="center">Smooth Scrolling</h1>
+
+ <h1 align="center">
+    <a href="https://github.com/iHelops/smooth-scrolling" style="text-decoration: none;">Smooth Scrolling</a>
+ </h1>
 </p>
 
 This extension for Spotify improves scrolling performance by rendering scrolling elements on the GPU.
