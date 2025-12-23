@@ -6,6 +6,9 @@
  </h1>
 </p>
 
+> [!WARNING]
+> You no longer need this extension. Spotify, starting with version 1.2.57, has fixed performance issues during scrolling, and Spicetify already uses this fix automatically in earlier versions.
+
 This extension for Spotify improves scrolling performance by rendering scrolling elements on the GPU.
 
 ⭐ If this extension helped you, please put a star to get it noticed by more people.
